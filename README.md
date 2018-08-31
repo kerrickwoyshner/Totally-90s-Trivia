@@ -6,7 +6,7 @@ Click https://kerrickwoyshner.github.io/Totally-90s-Trivia/ to enter the trivia.
 
 <img src="assets/images/Title.PNG" width="500" height="500">
 
-And make sure to answer the questions before time runs out - you have 30 seconds for each of the 10 questions.  Good luck!
+And make sure to answer the questions before time runs out - you have 30 seconds for each question (there are 10 questions total).  Good luck!
 
 <img src="assets/images/Question1.PNG" width="500" height="500">
 
