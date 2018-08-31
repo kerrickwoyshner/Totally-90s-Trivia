@@ -111,7 +111,7 @@ var game = {
 
         clearInterval(window.timer);
 
-        panel.html("<h2>All done, heres how you did!</h2>");
+        panel.html("<h2>All done, here's how you did!</h2>");
 
         $("#counter-number").text(this.counter);
 
